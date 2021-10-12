@@ -1,0 +1,58 @@
+header{
+    
+    background-color:#1C0C5B; 
+    color: blanchedalmond;
+    text-align: center;
+}
+nav{
+    width: 980px;
+    height: 40px;
+  
+    background: #fff;
+    background-color: #916BBF;
+    color:#1C0C5B;
+}
+.container{
+    max-width: 2000px;
+margin: auto;}
+.menu{
+    
+line-height: 20px ;}
+.menu ul{
+display: flex;
+list-style: none;
+}
+.menu a{
+    display: block;
+    padding: 0px 25px;
+    text-decoration: none;
+color: black;
+transition: all 500ms ease;
+}
+.menu a:hover{
+    background: #cc673b;
+    color: #fff;
+}
+
+
+p{
+    background-color: #1C0C5B ;
+    color:#C996CC;
+    text-align: center;
+    
+}
+footer{ background-color:#3D2C8D;
+    color: #C996CC;
+}
+aside{
+    background-color: #916BBF;
+    color:#1C0C5B;
+    grid-column: 4/5;
+}
+section {
+color: dodgerblue;
+grid-column: 1/4;}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
