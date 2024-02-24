@@ -1,0 +1,13 @@
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\bin\Debug\F4 Construccion de Arboles Binarios.exe.config
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\bin\Debug\F4 Construccion de Arboles Binarios.exe
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\bin\Debug\F4 Construccion de Arboles Binarios.pdb
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4 Construccion de Arboles Binarios.csproj.AssemblyReference.cache
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4_Construccion_de_Arboles_Binarios.Contraseña.resources
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4_Construccion_de_Arboles_Binarios.lobby.resources
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4_Construccion_de_Arboles_Binarios.Properties.Resources.resources
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4 Construccion de Arboles Binarios.csproj.GenerateResource.cache
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4 Construccion de Arboles Binarios.csproj.CoreCompileInputs.cache
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4 Construccion de Arboles Binarios.exe
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4 Construccion de Arboles Binarios.pdb
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4_Construccion_de_Arboles_Binarios.Escenario1.resources
+C:\Users\cadd9\Desktop\U\5 semester\estructuras de datos\work 4 est files\F4 Construccion de Arboles Binarios\F4 Construccion de Arboles Binarios\obj\Debug\F4_Construccion_de_Arboles_Binarios.Escenario2.resources
