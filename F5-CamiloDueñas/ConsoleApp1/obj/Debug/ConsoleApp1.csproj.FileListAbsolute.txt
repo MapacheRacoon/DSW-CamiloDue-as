@@ -1,0 +1,20 @@
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 4\F4-CamiloDueñas\F4-CamiloDueñas\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Familia D\Desktop\UNAD\3 semestre\INTRODUCCION A LA PROGRAMACION 301304\act 5\Nueva carpeta\F5-CamiloDueñas\F5-CamiloDueñas\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
